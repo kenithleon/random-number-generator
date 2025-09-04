@@ -4,13 +4,13 @@ A simple **random number generator (dice roller)** built using **HTML, CSS, and 
 Click the **ROLL** button to generate three random numbers between 1 and 6.  
 
 ## 🚀 Live Demo  
-[Click here to view the demo](https://yourusername.github.io/random-number-generator/)  
+[Click here to view the demo]( https://kenithleon.github.io/random-number-generator/)  
 
-*(Replace `yourusername` with your GitHub username after publishing.)*  
+
 
 ## 📸 Preview  
 ![App Screenshot](https://github.com/kenithleon/random-number-generator/blob/3278ae819f8b4b6acf19d892df3bd3e667032f16/Screenshot%202025-09-04%20092151.png)  
-*(Take a screenshot of your app, save it as `screenshot.png` in your repo, and it will display here.)*  
+
 
 ## ✨ Features  
 - 🎲 Generates random numbers between **1–6**  
